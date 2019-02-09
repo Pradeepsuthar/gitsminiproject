@@ -1,0 +1,2 @@
+# gitsminiproject
+student management system
